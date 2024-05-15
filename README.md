@@ -1,4 +1,4 @@
-This code is for paper <A Linbreg method on Renewal System> using Matlab to run.
+This code is for paper "A Linbreg method on Renewal System" using Matlab to run.
 
 Here's a brief introduction of the paper:
 We have presented an algorithm that is actually the well-known Linbreg algorithm to solve the renewal system problem. 
